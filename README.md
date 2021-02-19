@@ -15,5 +15,6 @@ Hello, I am cleverhao.
 - 😄 Pronouns: sillyhao...(you can send me one, too!)
 - ⚡ Fun fact: ...
 
-I have three website: (iLearnWorld)[https://cleverhao.github.io/iLearnWorld/], (iPictureStore)[https://cleverhao.github.io/iPictureStore/], (iSpecialFestival)[https://cleverhao.github.io/iSpecialFestival/]
+I have three website: [iLearnWorld](https://cleverhao.github.io/iLearnWorld/), [iPictureStore](https://cleverhao.github.io/iPictureStore/), [iSpecialFestival](https://cleverhao.github.io/iSpecialFestival/)
+
 Thanks for your support and encouragement, I'll keep learning!
