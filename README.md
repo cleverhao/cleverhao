@@ -1,30 +1,31 @@
-###你好👋
+# 你好👋
 
 
 你好，我是cleverhao。
 
--🔭我目前工作在我的三个网站。
--🌱我目前正在学习如何使我的网站更好，以及如何使一个好的包。
-👯我想和姚明合作。
--🤔我正在寻找有经验的程序员的帮助。
--💬任何事情都可以问我，我会尽快给你回复电子邮件。
--📫联系方式:waterpanda@qq.com
--😄代词:sillyhao…
-(你也可以寄一个给我!)
--⚡有趣的事实:…
+- 🔭我目前工作在我的三个网站。
+- 🌱我目前正在学习如何使我的网站更好，以及如何做一个好的Package。
+- 👯我想和姚明合作。
+- 🤔我正在寻找有经验的程序员的帮助。
+- 💬任何事情都可以问我，我会尽快给你回复电子邮件。
+- 📫联系方式: waterpanda@qq.com
+- 😄别称: sillyhao… (你也可以送一个给我!)
+- ⚡有趣的事实:…
 
 我有三个网站:[iLearnWorld](https://cleverhao.github.io/iLearnWorld/)， [iPictureStore](https://cleverhao.github.io/iPictureStore/)， [isspecialfestival](https://cleverhao.github.io/iSpecialFestival/)
 
 我的网站网址:
-(iLearnWorld) & lt; https://cleverhao.github.io/iLearnWorld/&gt;
-(iPictureStore) & lt; https://cleverhao.github.io/iPictureStore/&gt;
-(iSpecialFestival) & lt; https://cleverhao.github.io/iSpecialFestival/&gt;
+(iLearnWorld) <https://cleverhao.github.io/iLearnWorld/>
+(iPictureStore) <https://cleverhao.github.io/iPictureStore/>
+(iSpecialFestival) <https://cleverhao.github.io/iSpecialFestival/>
 
-iLearnWorld是一个你可以学到任何东西的网站。
+iLearnWorld是一个您可以学到任何东西的网站。
 iPictureStore是一个有很多漂亮照片或图片的网站。
-special festival是一个网站，你可以在它的主页上庆祝许多重要的节日。
+iSpecialFestival是一个您可以在它的主页上庆祝许多重要的节日的网站。
 
-谢谢你的支持和鼓励，我会继续学习的!
+谢谢您的支持和鼓励，我会继续学习的!
+
+
 ### Hi there 👋
 
 <!--
