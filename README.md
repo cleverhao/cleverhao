@@ -12,7 +12,7 @@
 - 😄别称: sillyhao… (你也可以送一个给我!)
 - ⚡有趣的事实:…
 
-我有三个网站:[iLearnWorld](https://cleverhao.github.io/iLearnWorld/)， [iPictureStore](https://cleverhao.github.io/iPictureStore/)， [isspecialfestival](https://cleverhao.github.io/iSpecialFestival/)
+我有三个网站:[iLearnWorld](https://cleverhao.github.io/iLearnWorld/)， [iPictureStore](https://cleverhao.github.io/iPictureStore/)， [iSpecialFestival](https://cleverhao.github.io/iSpecialFestival/)
 
 我的网站网址:
 (iLearnWorld) <https://cleverhao.github.io/iLearnWorld/>
